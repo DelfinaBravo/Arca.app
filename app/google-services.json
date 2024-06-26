@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092528111183",
+    "project_id": "arca-app-d1509",
+    "storage_bucket": "arca-app-d1509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092528111183:android:2319db857500ccebacb43a",
+        "android_client_info": {
+          "package_name": "com.example.arcaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmfG5B14X0vUqgyQl4iDHFYvRNVO6ftS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
