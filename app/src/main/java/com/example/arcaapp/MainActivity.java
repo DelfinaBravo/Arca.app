@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         noteAdapter.startListening();
     }
+    
 
     @Override
     protected void onStop() {
